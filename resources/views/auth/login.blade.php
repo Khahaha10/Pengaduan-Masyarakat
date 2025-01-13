@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="{{ asset('assets/css/login.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/global.css') }}">
-    <link rel="icon" type="image/x-icon" href="{{ asset('assets/images/logo.png') }}" alt="ikon">
-    <title>Login</title>
-</head>
+
 <body>
     <div class="container" id="container">
         <div class="form-container sign-up-container">
