@@ -82,7 +82,7 @@
         <div class="header">
             <p>PEMERINTAH KOTA</p>
             <p>DINAS PELAYANAN MASYARAKAT</p>
-            <h4>Surat Pengaduan</h4>
+            <h4>Surat Pengaduan Masyarakat</h4>
         </div>
 
         <div class="content card-title">
