@@ -30,7 +30,7 @@
                     </span>
                 </div>
                 <br>
-                <button type="submit" name="sign-up">Sign Up</button>
+                <button type="submit" name="sign-up">Register</button>
             </form>
         </div>
 
